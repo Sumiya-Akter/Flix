@@ -5,6 +5,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 2
 
 ### User Stories
+The only issue I had with this project was when I kept getting an error about UIView. It turned out to be an error from when I was contral dragging an outlet. I didn't do it properly, and so the function ended up not working until it was fixed.
 
 #### REQUIRED (10pts)
 - [x] (5pts) User can tap a cell to see more details about a particular movie.
@@ -16,7 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/6lXqVwP2t0.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
